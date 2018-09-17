@@ -13,10 +13,7 @@
 ***严格控制人数，希望能都够坚持下来***
 
 
-加入群组，了解更多！ ***名片格式 专业年级-姓名***
 
-
-![Group](https://raw.githubusercontent.com/ShanKeAI/Lectures/master/group.png)
 
 ## 大体计划
 以周为单位，每周空闲时间自己看书遇到问题及时在群中反馈大家一起解决，计划一周读两到三章，每个人整理好笔记以及遇到的问题，每周指定一个主讲人讲解相应章节的重点内容，讲解过程中可以随时提问并一起讨论解答。 每次交流结束后由主讲人将问题整理好Push到小组Github，参加交流的同学将个人笔记整理好Push到小组Github供其他组员学习。
@@ -25,3 +22,9 @@
  书籍 | 章节 | 主讲人 | 时间 | 地点 | 参加人数
  --- | --- | --- | --- | --- | ---
 Hands-On Machine Learning with Scikit-Learn & Tensorflow | 1,2 | lhj | 2018.9.18 | 128 | 10
+
+加入群组，了解更多！ ***名片格式 专业年级-姓名***
+
+
+
+![Group](https://raw.githubusercontent.com/ShanKeAI/Lectures/master/group.png)
