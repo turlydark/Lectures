@@ -17,7 +17,7 @@
 ## 为什么要组织？
 自己体会
 
-![](https://raw.githubusercontent.com/ShanKeAI/Lectures/master/jzt.jpeg)
+![](https://raw.githubusercontent.com/ShanKeAI/Lectures/master/pics/jzt.jpeg)
 ## 大体计划
 以周为单位，每周空闲时间自己看书遇到问题及时在群中反馈大家一起解决，计划一周读两到三章，每个人整理好笔记以及遇到的问题，每周指定一个主讲人讲解相应章节的重点内容，讲解过程中可以随时提问并一起讨论解答。 每次交流结束后由主讲人将问题整理好Push到小组Github，参加交流的同学将个人笔记整理好Push到小组Github供其他组员学习。
 
@@ -30,4 +30,4 @@ Hands-On Machine Learning with Scikit-Learn & Tensorflow | 1,2 | lhj | 2018.9.18
 
 
 
-![Group](https://raw.githubusercontent.com/ShanKeAI/Lectures/master/group.png)
+![Group](https://raw.githubusercontent.com/ShanKeAI/Lectures/master/pics/group.png)
